@@ -1,4 +1,4 @@
-# ChatGPT for Jupyter
+# ChatGPT for Jupyter (Python3)
 
 A browser extension to provide various helper functions in Jupyter Notebooks and Jupyter Lab, powered by ChatGPT or GPT-4.
 
